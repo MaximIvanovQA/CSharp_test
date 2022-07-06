@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Web_Tests
+namespace API_Client
 {
     class Program
     {
